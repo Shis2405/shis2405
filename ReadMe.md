@@ -19,7 +19,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shis2405&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=shis2405&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
