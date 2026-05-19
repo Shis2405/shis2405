@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am currently working on building resilient distributed architecture.
-
+🏛️ I am currently working on building resilient distributed applications on AI.
+👯 I'm looking to collaborate on AI projects with AI devs around the globe.
+🌱 I'm currently learning Claude Code and ML
+💬 Ask me about SRE, Automation and AI
+⚡ Fun fact - I am lazy but smart
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shishir1590) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shishirsharma486/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shishirsharma486) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shishirsharma486@gmail.com) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shishir Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shishirsharma486@gmail.com) 
